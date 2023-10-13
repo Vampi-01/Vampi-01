@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Vampi-01
-- 👀 I’m interested in Full Stack Web Development.
-- 🌱 I’m currently learning React js To complete MERN stack.
+- 👀 I’m a Full Stack Web Developer.
 - 📫 Reach me on dev.vampi@gmail.com
 
